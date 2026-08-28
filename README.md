@@ -7,7 +7,7 @@
 
 This project analyzes the **Superstore dataset** to understand sales performance, profitability, customer behavior, product performance, regional trends, shipping, discounts, and potential sources of profit loss.
 
-The analysis combines **Python, Pandas, SQLite, SQL, and Matplotlib** to move from data cleaning and exploratory analysis to deeper investigation of business anomalies.
+The analysis combines **Python, Pandas, SQLite, SQL, Power BI and Matplotlib** to move from data cleaning and exploratory analysis to deeper investigation of business anomalies.
 
 A key focus of the project was not only identifying where sales were high, but understanding **where high sales were not translating into high profit — and why**.
 
@@ -34,10 +34,24 @@ A key focus of the project was not only identifying where sales were high, but u
 * **SQLite** – Data storage and SQL-based analysis
 * **SQL** – KPI calculations, grouping, ranking, filtering, and business analysis
 * **Matplotlib** – Data visualization
+* **Power BI** – Interactive dashboard and business visualization
 * **Jupyter Notebook / Google Colab**
 
 ---
+## 📊 Power BI Dashboard
 
+An interactive Power BI dashboard was created to visualize the key findings from the Superstore analysis.
+
+**Dashboard includes:**
+- Sales & Profit KPIs
+- Category & Sub-Category Performance
+- Regional & State-Level Analysis
+- Customer Profitability
+- Product Performance
+- Discount vs Profitability
+- Monthly Sales & Profit Trends
+
+---
 ## 📁 Dataset
 
 The analysis uses the **Sample Superstore dataset**, containing transactional information including:
